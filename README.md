@@ -8,7 +8,7 @@ This app can be used with any **VPN**.
 * choose your gender:
 
 <p align="center">
-  <img src="README/1.jpg" width="350" title="hover text">
+  <img src="README/1.jpg" width="200" title="first stage">
 </p>
 
 
