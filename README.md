@@ -6,6 +6,11 @@ This app can be used with any **VPN**.
 
 ## How to use?
 * choose your gender:
-![first stage](README/1.jpg?raw=true "Title")
+
+<p align="center">
+  <img src="README/1.jpg" width="350" title="hover text">
+</p>
+
+
 
 * 
